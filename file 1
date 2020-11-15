@@ -1,0 +1,10 @@
+/*créé par Maxime Monfette, Sébastien Tiffou, Thanujan Vasantan et Matthieu Trudel
+Le Jeu de Nim
+Créé le 15 novembvre 2020*/
+
+#include <stdlib.h>
+#include <stdio.h>
+
+void main(void){
+printf("Hello World");
+}
